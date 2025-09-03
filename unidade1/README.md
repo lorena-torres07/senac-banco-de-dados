@@ -64,12 +64,12 @@
     </td>
     <td>
         <h3>Amazon RDS</h3>
-        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
+        <a href="https://www.canva.com/design/DAGxmVaBCXU/v2I2pJRdcS3Ubf5P7tDXlg/edit?utm_content=DAGxmVaBCXU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://i.ytimg.com/vi/jW84JhqNWUY/maxresdefault.jpg" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>
-        <li><a href="LINKEDIN">NOME</a></li>       
+        <li><a href="https://www.linkedin.com/in/lorena-torres-720482239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Lorena</a></li>
+        <li><a href="https://www.linkedin.com/in/mayara-marina-820449382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">Mayara</a></li>
+        <li><a href="https://www.linkedin.com/in/mariana-oliveira-da-silva-576928328/">Mariana</a></li>
+           
     </td>
     <td>
         <h3>Elasticsearch</h3>
@@ -145,10 +145,12 @@
     </td>
     <td>
         <h3>Microsoft Azure</h3>
-        <a href="https://prezi.com/view/hbpytLM3k4si3hWxWPgR/?referral_token=Pz5zXPlnB3FN"><img src="https://www.devopsschool.com/blog/wp-content/uploads/2023/12/image-182-1024x577.png" width="250px"></a>
+        <a href="LINK DA ATIVIDADE"><img src="ENDERECO DA IMAGEM" width="250px"></a>
         <h3>Equipe:</h3>
-        <li><a href="https://www.linkedin.com/in/igorbarbosaws/">Igor Barbosa</a></li>
-        <li><a href="https://www.linkedin.com/in/danilo-henrique-7a4449382/">Danilo Henrique</a></li>       
+        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="LINKEDIN">NOME</a></li>
+        <li><a href="LINKEDIN">NOME</a></li>       
     </td>
     <td>
         <h2>Roadmap Database</h2>
